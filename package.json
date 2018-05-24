@@ -1,0 +1,25 @@
+{
+  "name": "node-mongo-crud-api",
+  "version": "1.0.0",
+  "description": "Building a crud api using Node.js, Express, and Mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Express",
+    "Mongodb",
+    "Tutorial",
+    "Article",
+    "Post",
+    "Database"
+  ],
+  "author": "expertphp.in",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2"
+  }
+}
